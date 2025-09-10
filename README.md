@@ -1,4 +1,4 @@
-- 👋 He yu, soy @Yavehrito
+- 👋 Hey u, soy @Yavehrito
 - 👀 Y estoy interesado en IA en python, así como analisis en dicho lenguaje y R, Julia y STATA como ocio "según"
 - 🌱 Actualmente aprendo programación enfoacada al analisis de datos, enfocados a economía, no solo dinero 
 - 📫 Tardo en contestar
